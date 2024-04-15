@@ -2,7 +2,7 @@
 
 Dans ce chapitre, découvrons l'interface de WordPress.
 
-![alt text](media/chap1/image.png)
+![alt text](media/chap1/image-1.png)
 
 À gauche, vous trouverez des onglets menant vers diverses fonctionnalités de votre site. Cette section risque de se remplir rapidement au fur et à mesure que vous ajouterez des extensions (et oui, les extensions peuvent ajouter de nouveaux onglets !).
 
